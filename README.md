@@ -54,11 +54,6 @@ A comprehensive, professional travel guide website for Indian travelers planning
 └── README.md
 ```
 
-## 📄 Other Formats
-
-- **PDF:** Generated via Puppeteer (A4, print-ready)
-- **DOCX:** MS Office 2016 compatible with embedded images
-
 ## 👤 Author
 
 **Vishal Kumar Jaiswal** — WebDeskArt
